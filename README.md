@@ -76,4 +76,4 @@ Este projeto foi criado com base em aulas práticas, e me permitiu colocar em pr
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/paulojrtoledo/cancelamento-clientes.git
+   git clone https://github.com/paulojrtoledo/base_de_dados.cancelamentos.git
